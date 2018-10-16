@@ -1,0 +1,21 @@
+dependencies: \
+  /xiangmu/gaosong/node_modules/react-native/Libraries/Text/RCTText.m \
+  /xiangmu/gaosong/node_modules/react-native/Libraries/Text/RCTText.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /xiangmu/gaosong/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

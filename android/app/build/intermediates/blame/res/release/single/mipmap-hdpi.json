@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/react-native-cli/react-native-app/android/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png",
+        "source": "/react-native-cli/react-native-app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/xiangmu/gaosong/android/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png",
+        "source": "/xiangmu/gaosong/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

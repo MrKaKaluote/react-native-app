@@ -1,0 +1,31 @@
+dependencies: \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBatchedBridge.m \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTAssert.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTDefines.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBridge.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTConvert.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTLog.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTUtils.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTModuleData.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Modules/RCTDevLoadingView.h

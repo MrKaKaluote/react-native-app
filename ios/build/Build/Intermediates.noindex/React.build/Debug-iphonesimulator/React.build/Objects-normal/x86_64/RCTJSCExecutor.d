@@ -1,0 +1,25 @@
+dependencies: \
+  /xiangmu/gaosong/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /xiangmu/gaosong/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTDefines.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /xiangmu/gaosong/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTAssert.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBridge.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTJSCErrorHandling.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTLog.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTUtils.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /xiangmu/gaosong/node_modules/react-native/React/Modules/RCTDevMenu.h
